@@ -1,0 +1,23 @@
+{
+  "name": "aws-rds-example",
+  "version": "1.0.0",
+  "description": "AWS RDS sample code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackie1019/aws-rds-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackie1019/aws-rds-example/issues"
+  },
+  "homepage": "https://github.com/blackie1019/aws-rds-example#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
